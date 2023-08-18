@@ -1,0 +1,7 @@
+*.js
+!jest.config.js
+*.d.ts
+node_modules
+
+
+.dynamodb-stream-event.json
